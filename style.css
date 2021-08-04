@@ -24,7 +24,7 @@ body{
      margin-bottom: 0px;
      background: rgb(253, 253, 253);
  }
- #camera{
+ #camera, #camera2,#camera3{
      border: 2px solid white;
      width: 310px;
      height:300px;
